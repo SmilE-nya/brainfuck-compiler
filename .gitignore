@@ -1,0 +1,9 @@
+# Build output
+build/
+*.exe
+*.o
+*.obj
+
+# Temporary generated C++ files
+_t.cpp
+_temp_bf_output.cpp
